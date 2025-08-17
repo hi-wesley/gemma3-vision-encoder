@@ -199,3 +199,29 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+---------------------------------------------------------------------
+
+**Important Notice Regarding Model Weights**
+
+This repository contains both:
+
+1. **Source code** (e.g. extraction scripts, config files) licensed under the
+   Apache License Version 2.0; **and**
+
+2. **Model weights** derived from the *Gemma 3* model released by Google.
+
+The **model weights are *not* licensed under Apache-2.0**.  
+They remain subject to the following terms, which apply to all use,
+distribution, and derivative works of the weights:
+
+• **Gemma Model License Agreement**  
+  https://ai.google.dev/licenses/gemma_model_license
+
+• **Gemma Prohibited Use Policy**  
+  https://ai.google.dev/licenses/gemma_prohibited_use
+
+By downloading or using the weights in this repository, you confirm that
+you have read and agreed to the above Gemma license terms.  If you do not
+accept those terms, **do not use or distribute** the weight files in this
+repository.
